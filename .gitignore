@@ -1,0 +1,10 @@
+__pycache__/
+.venv/
+.ipynb_checkpoints/
+*.pyc
+data/exports/*
+!data/exports/.gitkeep
+logs/*
+!logs/.gitkeep
+AirbnbBogota/calendar.csv
+AirbnbBogota/reviews.csv
